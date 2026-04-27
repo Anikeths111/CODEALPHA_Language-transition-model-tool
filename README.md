@@ -23,7 +23,7 @@ built with Streamlit and Google Translate API.
 ## 🚀 How to Run
 
 ### 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/CodeAlpha_LanguageTranslation.git
+git clone https://github.com/Anikeths111/CodeAlpha_LanguageTranslation.git
 
 ### 2. Install dependencies
 pip install -r requirements.txt
